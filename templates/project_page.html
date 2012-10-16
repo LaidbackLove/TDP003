@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+{% extends "layout.html" %}
+
+
+{% block title %}
+
+<h2> Projects</h2>
+
+{% endblock %}
+{% block content %}
+
+    <ol>
+        {% for projects in data %}
+            <li><a href="project/{{ projects["project_no"] }}">{{ projects["project_name"] }}</a> </li>
+            <ul>
+
+
+                <br>
+                <li> Short description: {{ projects['short_description'] }}</li>
+                <li> Start date: {{ projects['start_date'] }}</li>
+                <li> End date: {{ projects['end_date'] }}</li>
+                <li> Course: {{ projects['course_name'] }}</li>
+                <li> Credits: {{ projects['academic_credits'] }}</li>
+                <li> Techniques used:</li>
+                <ul>
+                    {% for element in projects["techniques_used"] %}
+                        <li>{{ element }}</li>
+                    {% endfor %}
+                </ul>
+
+
+            </ul>
+        {% endfor %}
+    </ol>
+
+
+
+
+
+
+{% endblock %}

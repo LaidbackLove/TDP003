@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+{% extends "layout.html" %}
+
+{% block title %}
+
+   <h2>Projects that use: {{ data[1] }}</h2>
+
+{% endblock %}
+{% block content %}
+
+
+
+
+
+
+
+    {{ data["long_description"] }}
+    <br>
+
+      {% for element in data[0] %}
+            <li><a href="/project/{{ element['id'] }}">{{ element['name'] }}</a></li>
+      {% endfor %}
+
+
+
+{% endblock %}
+

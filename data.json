@@ -1,0 +1,91 @@
+[
+  {
+    "start_date": "2009-09-05",
+    "short_description": "a little project written in java",
+    "course_name": "programming in java",
+    "long_description": "programming in java programming in java programming in java programming in java programming in java programming in java programming in java ",
+    "group_size": 2,
+    "academic_credits": "Zhor, LaidbackLove",
+    "small_image": "../static/images/Java.jpg",
+    "techniques_used": [
+      "python",
+      "Java"
+    ],
+    "project_name": "Java project",
+    "course_id": "TDP023",
+    "end_date": "2009-04-06",
+    "project_no": 1,
+    "big_image": "../static/images/Java.jpg"
+  },
+  {
+    "start_date": "2009-09-07",
+    "short_description": "a little project in python",
+    "course_name": "Imperative programming in python",
+    "long_description": "programming in pythonprogramming in pythonprogramming in pythonprogramming in pythonprogramming in pythonprogramming in pythonprogramming in pythonprogramming in pythonprogramming in python",
+    "group_size": 4,
+    "academic_credits": "Zhor. LaidbackLove",
+    "small_image": "../static/images/montypython.jpg",
+    "techniques_used": [
+      "c++",
+      "csv",
+      "python"
+    ],
+    "project_name": "A Python project",
+    "course_id": "TDP003",
+    "end_date": "2009-09-08",
+    "project_no": 3,
+    "big_image": "../static/images/montypython.jpg"
+  },
+  {
+    "start_date": "2009-09-08",
+    "short_description": "a little project in ada",
+    "course_name": "programming in ada",
+    "long_description": "ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ",
+    "group_size": 6,
+    "academic_credits": "Zhor, LaidbackLove",
+    "small_image": "../static/images/ADA.jpg",
+    "techniques_used": [
+      "ada",
+      "python"
+    ],
+    "project_name": "Bro Programming in ada",
+    "course_id": "TDP008",
+    "end_date": "2009-09-09",
+    "project_no": 2,
+    "big_image": "../static/images/ADA.jpg"
+  },
+  {
+    "start_date": "2014-09-06",
+    "short_description": "a little project in c++",
+    "course_name": "Object oriented programming in c++",
+    "long_description": "c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  ",
+    "group_size": 8,
+    "academic_credits": "LaidbackLove, Zhor",
+    "small_image": "../static/images/C++.jpg",
+    "techniques_used": [
+        "c++"
+    ],
+    "project_name": "C Programming in c++",
+    "course_id": "TDP026",
+    "end_date": "2009-09-07",
+    "project_no": 4,
+    "big_image": "../static/images/C++.jpg"
+  },
+  {
+    "start_date": "2005-09-06",
+    "short_description": "simple bla",
+    "course_name": "bject oriented programming in bla",
+    "long_description": "c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  c++  ",
+    "group_size": 8,
+    "academic_credits": "LaidbackLove, Zhor",
+    "small_image": "../static/images/bla.jpg",
+    "techniques_used": [
+        "c++"
+    ],
+    "project_name": "Bla Programming in bla",
+    "course_id": "TDP026",
+     "end_date": "2009-09-07",
+     "project_no": 5,
+     "big_image": "../static/images/bla.jpg"
+  }
+]

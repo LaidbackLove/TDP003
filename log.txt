@@ -1,0 +1,45 @@
+2012-10-16 11:18:22.285646load(datas.json)error1 database error
+2012-10-16 11:18:22.444732load(datas.json)error1 database error
+2012-10-16 11:18:43.120746load(datas.json)error1 database error
+2012-10-16 11:18:43.264029load(datas.json)error1 database error
+2012-10-16 11:19:38.220586  load(datas.json)  error1 database error  
+2012-10-16 11:19:38.369849  load(datas.json)  error1 database error  
+2012-10-16 11:24:27.075744  load(datas.json)  error1 database error  
+2012-10-16 11:24:27.076514  load(data.json)  0 OK  
+2012-10-16 11:24:27.220053  load(datas.json)  error1 database error  
+2012-10-16 11:24:27.220525  load(data.json)  0 OK  
+2012-10-16 11:33:42.732865  load(datas.json)  error2 json file does not exist  
+2012-10-16 11:33:42.733201  get_techniques(db)  0 OK  
+2012-10-16 11:33:42.733675  load(data.json)  0 OK  
+2012-10-16 11:33:42.887837  load(datas.json)  error2 json file does not exist  
+2012-10-16 11:33:42.887935  get_techniques(db)  0 OK  
+2012-10-16 11:33:42.888318  load(data.json)  0 OK  
+2012-10-16 11:33:47.212693  search(hej)0 OK  
+2012-10-16 11:33:50.406021  search(på)0 OK  
+2012-10-16 11:33:52.124962  search(dig)0 OK  
+2012-10-16 11:33:53.621151  search()0 OK  
+2012-10-16 11:34:22.356332  load(data.json)  0 OK  
+2012-10-16 11:34:22.356464  get_techniques(db)  0 OK  
+2012-10-16 11:34:22.356837  load(data.json)  0 OK  
+2012-10-16 11:34:22.505158  load(data.json)  0 OK  
+2012-10-16 11:34:22.505258  get_techniques(db)  0 OK  
+2012-10-16 11:34:22.505627  load(data.json)  0 OK  
+2012-10-16 12:26:44.976062  load(data.json)  0 OK  
+2012-10-16 12:26:44.976172  get_techniques(db)  0 OK  
+2012-10-16 12:26:44.976543  load(data.json)  0 OK  
+2012-10-16 12:26:45.118620  load(data.json)  0 OK  
+2012-10-16 12:26:45.118726  get_techniques(db)  0 OK  
+2012-10-16 12:26:45.119090  load(data.json)  0 OK  
+2012-10-16 12:29:56.333421  search()0 OK  
+2012-10-16 12:47:28.419612  load(data.json)  0 OK  
+2012-10-16 12:47:28.419908  get_techniques(db)  0 OK  
+2012-10-16 12:47:28.420381  load(data.json)  0 OK  
+2012-10-16 12:47:28.576857  load(data.json)  0 OK  
+2012-10-16 12:47:28.576956  get_techniques(db)  0 OK  
+2012-10-16 12:47:28.577315  load(data.json)  0 OK  
+2012-10-16 13:01:34.115196  load(data.json)  0 OK  
+2012-10-16 13:01:34.115327  get_techniques(db)  0 OK  
+2012-10-16 13:01:34.115742  load(data.json)  0 OK  
+2012-10-16 13:01:34.262908  load(data.json)  0 OK  
+2012-10-16 13:01:34.263019  get_techniques(db)  0 OK  
+2012-10-16 13:01:34.263388  load(data.json)  0 OK  

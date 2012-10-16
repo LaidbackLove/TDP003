@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+{% extends "layout.html" %}
+
+{% block title %}
+
+<h2>{{ data["project_name"] }}</h2>
+
+{% endblock %}
+{% block content %}
+
+
+
+
+    <h3> Start date: </h3>
+    {{ data["start_date"] }}
+
+    <h3> End date: </h3>
+    {{ data["end_date"] }}
+    <h3> Techniques used:</h3>
+    {% for element in data["techniques_used"] %}
+        <li>{{ element }}</a></li>
+    {% endfor %}
+    <h3> Description: </h3>
+
+    {{ data["long_description"] }}
+
+
+    <br>
+    {% if data["big_image"]!="XXX" %}
+      <img src="{{ data["big_image"] }}" alt="some_text">
+    {% endif %}
+
+
+{% endblock %}
+

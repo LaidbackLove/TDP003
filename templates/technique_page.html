@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+{% extends "layout.html" %}
+{% block content %}
+<ol>
+    {% for technique in data %}
+        <li><a href="technique/{{ technique }}">{{ technique }}</a> </li>
+        <ul>
+        {% for element in data[technique] %}
+            <li><a href="project/{{ element['id'] }}">{{ element['name'] }}</a></li>
+        {% endfor %}
+        </ul>
+    {% endfor %}
+</ol>
+{% endblock %}

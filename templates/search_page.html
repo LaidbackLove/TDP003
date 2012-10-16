@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+{% extends "layout.html" %}
+
+{% block title %}
+
+    <h2>Search result: </h2>
+
+{% endblock %}
+{% block content %}
+
+    {% if data==[] %}
+        No results found
+    {% else %}
+    {% for projects in data %}
+
+
+
+
+        <li><a href="/project/{{ projects["project_no"] }}">{{ projects["project_name"] }}</a> </li>
+            <ul>
+                Start date: {{ projects["start_date"] }}
+                <br>
+                End date: {{ projects["end_date"] }}
+                <br>
+                Course id: {{ projects["course_id"] }}
+
+            </ul>
+        {% if projects["small_image"]!="X" %}
+            <img src="{{ projects["small_image"] }}" alt="Small image" width="130">
+        {% endif %}
+        <br>
+    -----------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+    {% endfor %}
+    {% endif %}
+
+
+
+
+
+{% endblock %}
+
