@@ -13,36 +13,45 @@ app.debug=True
 
 @app.route('/')
 def home_page():
+    """renders the homepage"""
     return render_template('home_page.html' )
 
-@app.route('/project', methods=['POST', 'GET'])
+@app.route('/project')
 def project_page():
+    """"renders the project page with all data in the json file"""
     return render_template('project_page.html' ,data=projects)
-
-@app.route('/list')
-def list_page():
-    return render_template('list_page.html')
 
 @app.route('/technique')
 def technique_page():
+    """renders the technique page with the techniques as data"""
     return render_template('technique_page.html',data=tech)
 
-@app.route("/project/<project_no>", methods=['POST', 'GET'])
+@app.route("/project/<project_no>")
 def show_project(project_no):
-    lol2=project_no
+    """renders the project page with project id as data"""
+    try:
+        get_project=datalager.get_project(projects, int(project_no))
+    except:
+        return render_template("error_page.html", data=404)
+    if int(project_no)>len(projects) or int(project_no)<=0:
+        return render_template("error_page.html", data=404)
+    return render_template("show_project.html",data=get_project)
 
-    lol=datalager.get_project(projects, int(lol2))
+@app.route("/search")
+def show_search():
+    return render_template("search_page.html", data=[])
 
 
 
-    return render_template("show_project.html",data=lol)
-
-@app.route("/search", methods=['POST', 'GET'])
+@app.route("/search", methods=['POST'])
 def search():
+    """renders the search page with the variables from the searchbox"""
     term = request.form['key']
     sort_by = request.form['sort_by']
     search_by = request.form['search_by']
     sort_order = request.form['sort_order']
+
+
     if sort_order == 'Descending':
         sort_order = 'desc'
     else:
@@ -52,12 +61,16 @@ def search():
 
 @app.route("/technique/<technique>")
 def show_technique(technique):
-    lol3=(tech[technique],technique)
-
-    return render_template("show_technique.html",data=lol3)
+    """renders the technique page with a specific technique"""
+    try:
+        techniques=(tech[technique],technique)
+    except:
+        return render_template("error_page.html", data=404)
+    return render_template("show_technique.html",data=techniques)
 
 @app.errorhandler(404)
 def error_page(error):
+    """renders the error 404 page in the template"""
     return render_template("error_page.html", data=404)
 
 if __name__ == '__main__':

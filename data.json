@@ -28,11 +28,11 @@
     "techniques_used": [
       "c++",
       "csv",
-      "python"
+      "pylolz"
     ],
     "project_name": "A Python project",
     "course_id": "TDP003",
-    "end_date": "2009-09-08",
+    "end_date": "2009-09-28",
     "project_no": 3,
     "big_image": "../static/images/montypython.jpg"
   },
@@ -67,7 +67,7 @@
     ],
     "project_name": "C Programming in c++",
     "course_id": "TDP026",
-    "end_date": "2009-09-07",
+    "end_date": "2009-09-28",
     "project_no": 4,
     "big_image": "../static/images/C++.jpg"
   },
@@ -84,7 +84,7 @@
     ],
     "project_name": "Bla Programming in bla",
     "course_id": "TDP026",
-     "end_date": "2009-09-07",
+     "end_date": "2009-09-28",
      "project_no": 5,
      "big_image": "../static/images/bla.jpg"
   }

@@ -43,3 +43,979 @@
 2012-10-16 13:01:34.262908  load(data.json)  0 OK  
 2012-10-16 13:01:34.263019  get_techniques(db)  0 OK  
 2012-10-16 13:01:34.263388  load(data.json)  0 OK  
+2012-10-16 14:00:42.190989  load(data.json)  0 OK  
+2012-10-16 14:00:42.191108  get_techniques(db)  0 OK  
+2012-10-16 14:00:42.191469  load(data.json)  0 OK  
+2012-10-16 14:00:42.368611  load(data.json)  0 OK  
+2012-10-16 14:00:42.368892  get_techniques(db)  0 OK  
+2012-10-16 14:00:42.369375  load(data.json)  0 OK  
+2012-10-16 14:01:24.785267  load(data.json)  0 OK  
+2012-10-16 14:01:24.785386  get_techniques(db)  0 OK  
+2012-10-16 14:01:24.785750  load(data.json)  0 OK  
+2012-10-16 14:03:02.627361  load(data.json)  0 OK  
+2012-10-16 14:03:02.627483  get_techniques(db)  0 OK  
+2012-10-16 14:03:02.627919  load(data.json)  0 OK  
+2012-10-16 14:03:04.008281  search(fd)0 OK  
+2012-10-16 14:03:11.482536  get_project(db, id)  0 OK  
+2012-10-16 14:08:33.206719  load(data.json)  0 OK  
+2012-10-16 14:08:33.206828  get_techniques(db)  0 OK  
+2012-10-16 14:08:33.207208  load(data.json)  0 OK  
+2012-10-16 14:09:03.267079  load(data.json)  0 OK  
+2012-10-16 14:09:03.267194  get_techniques(db)  0 OK  
+2012-10-16 14:09:03.267600  load(data.json)  0 OK  
+2012-10-16 14:09:03.410530  load(data.json)  0 OK  
+2012-10-16 14:09:03.410921  get_techniques(db)  0 OK  
+2012-10-16 14:09:03.411399  load(data.json)  0 OK  
+2012-10-16 14:09:19.552311  get_project(db, id)  0 OK  
+2012-10-16 14:11:18.309175  load(data.json)  0 OK  
+2012-10-16 14:11:18.309472  get_techniques(db)  0 OK  
+2012-10-16 14:11:18.309872  load(data.json)  0 OK  
+2012-10-16 14:11:18.454940  load(data.json)  0 OK  
+2012-10-16 14:11:18.455056  get_techniques(db)  0 OK  
+2012-10-16 14:11:18.455419  load(data.json)  0 OK  
+2012-10-16 14:13:04.811714  load(data.json)  0 OK  
+2012-10-16 14:13:04.811934  get_techniques(db)  0 OK  
+2012-10-16 14:13:04.812319  load(data.json)  0 OK  
+2012-10-16 14:13:04.981827  load(data.json)  0 OK  
+2012-10-16 14:13:04.982139  get_techniques(db)  0 OK  
+2012-10-16 14:13:04.982560  load(data.json)  0 OK  
+2012-10-16 14:13:08.938892  get_project(db, id)  0 OK  
+2012-10-16 14:13:10.766410  get_project(db, id)  0 OK  
+2012-10-16 14:16:44.766561  load(data.json)  0 OK  
+2012-10-16 14:16:44.771762  get_techniques(db)  0 OK  
+2012-10-16 14:16:44.772355  load(data.json)  0 OK  
+2012-10-16 14:16:44.935251  load(data.json)  0 OK  
+2012-10-16 14:16:44.935357  get_techniques(db)  0 OK  
+2012-10-16 14:16:44.935746  load(data.json)  0 OK  
+2012-10-16 14:16:48.362764  get_project(db, id)  0 OK  
+2012-10-16 14:17:03.957600  load(data.json)  0 OK  
+2012-10-16 14:17:03.957721  get_techniques(db)  0 OK  
+2012-10-16 14:17:03.958098  load(data.json)  0 OK  
+2012-10-16 14:17:04.109550  load(data.json)  0 OK  
+2012-10-16 14:17:04.109651  get_techniques(db)  0 OK  
+2012-10-16 14:17:04.110006  load(data.json)  0 OK  
+2012-10-16 14:17:06.564632  get_project(db, id)  0 OK  
+2012-10-16 14:17:08.451372  get_project(db, id)  0 OK  
+2012-10-16 14:17:39.438611  load(data.json)  0 OK  
+2012-10-16 14:17:39.438913  get_techniques(db)  0 OK  
+2012-10-16 14:17:39.439441  load(data.json)  0 OK  
+2012-10-16 14:17:39.590590  load(data.json)  0 OK  
+2012-10-16 14:17:39.590694  get_techniques(db)  0 OK  
+2012-10-16 14:17:39.591051  load(data.json)  0 OK  
+2012-10-16 14:17:42.778882  get_project(db, id)  0 OK  
+2012-10-16 14:18:19.411543  load(data.json)  0 OK  
+2012-10-16 14:18:19.411788  get_techniques(db)  0 OK  
+2012-10-16 14:18:19.412182  load(data.json)  0 OK  
+2012-10-16 14:18:19.563663  load(data.json)  0 OK  
+2012-10-16 14:18:19.563945  get_techniques(db)  0 OK  
+2012-10-16 14:18:19.564351  load(data.json)  0 OK  
+2012-10-16 14:18:23.890820  get_project(db, id)  0 OK  
+2012-10-16 14:18:46.728736  load(data.json)  0 OK  
+2012-10-16 14:18:46.729025  get_techniques(db)  0 OK  
+2012-10-16 14:18:46.729431  load(data.json)  0 OK  
+2012-10-16 14:18:46.873388  load(data.json)  0 OK  
+2012-10-16 14:18:46.873501  get_techniques(db)  0 OK  
+2012-10-16 14:18:46.873872  load(data.json)  0 OK  
+2012-10-16 14:18:51.893056  get_project(db, id)  0 OK  
+2012-10-16 14:19:05.121308  load(data.json)  0 OK  
+2012-10-16 14:19:05.121569  get_techniques(db)  0 OK  
+2012-10-16 14:19:05.121970  load(data.json)  0 OK  
+2012-10-16 14:19:05.280562  load(data.json)  0 OK  
+2012-10-16 14:19:05.280937  get_techniques(db)  0 OK  
+2012-10-16 14:19:05.281436  load(data.json)  0 OK  
+2012-10-16 14:19:08.588742  get_project(db, id)  0 OK  
+2012-10-16 14:19:16.761645  get_project(db, id)  0 OK  
+2012-10-16 14:29:02.104211  load(data.json)  0 OK  
+2012-10-16 14:29:02.104461  get_techniques(db)  0 OK  
+2012-10-16 14:29:02.104931  load(data.json)  0 OK  
+2012-10-16 14:29:02.333773  load(data.json)  0 OK  
+2012-10-16 14:29:02.334221  get_techniques(db)  0 OK  
+2012-10-16 14:29:02.334720  load(data.json)  0 OK  
+2012-10-16 14:29:20.403108  get_project(db, id)  0 OK  
+2012-10-16 14:29:28.941744  load(data.json)  0 OK  
+2012-10-16 14:29:28.942112  get_techniques(db)  0 OK  
+2012-10-16 14:29:28.942577  load(data.json)  0 OK  
+2012-10-16 14:29:29.095038  load(data.json)  0 OK  
+2012-10-16 14:29:29.095309  get_techniques(db)  0 OK  
+2012-10-16 14:29:29.095795  load(data.json)  0 OK  
+2012-10-16 14:29:32.282854  get_project(db, id)  0 OK  
+2012-10-16 14:29:36.516113  get_project(db, id)  0 OK  
+2012-10-16 14:30:09.186982  get_project(db, id)  0 OK  
+2012-10-16 14:31:16.611953  load(data.json)  0 OK  
+2012-10-16 14:31:16.612061  get_techniques(db)  0 OK  
+2012-10-16 14:31:16.612416  load(data.json)  0 OK  
+2012-10-16 14:31:16.757760  load(data.json)  0 OK  
+2012-10-16 14:31:16.757864  get_techniques(db)  0 OK  
+2012-10-16 14:31:16.758236  load(data.json)  0 OK  
+2012-10-16 14:31:20.891061  get_project(db, id)  0 OK  
+2012-10-16 14:35:33.535931  load(data.json)  0 OK  
+2012-10-16 14:35:33.536334  get_techniques(db)  0 OK  
+2012-10-16 14:35:33.537008  load(data.json)  0 OK  
+2012-10-16 14:35:33.687691  load(data.json)  0 OK  
+2012-10-16 14:35:33.687952  get_techniques(db)  0 OK  
+2012-10-16 14:35:33.688542  load(data.json)  0 OK  
+2012-10-16 14:35:36.843602  get_project(db, id)  0 OK  
+2012-10-16 14:35:55.666885  get_project(db, id)  0 OK  
+2012-10-16 14:38:44.343836  load(data.json)  0 OK  
+2012-10-16 14:38:44.343952  get_techniques(db)  0 OK  
+2012-10-16 14:38:44.344328  load(data.json)  0 OK  
+2012-10-16 14:46:07.738951  get_project(db, id)  0 OK  
+2012-10-16 14:47:41.864052  load(data.json)  0 OK  
+2012-10-16 14:47:41.864486  get_techniques(db)  0 OK  
+2012-10-16 14:47:41.864968  load(data.json)  0 OK  
+2012-10-16 14:47:42.019894  load(data.json)  0 OK  
+2012-10-16 14:47:42.020269  get_techniques(db)  0 OK  
+2012-10-16 14:47:42.020690  load(data.json)  0 OK  
+2012-10-16 14:47:47.786853  get_project(db, id)  0 OK  
+2012-10-16 14:47:53.619099  get_project(db, id)  0 OK  
+2012-10-16 14:48:02.268981  get_project(db, id)  0 OK  
+2012-10-16 14:49:52.796084  load(data.json)  0 OK  
+2012-10-16 14:49:52.796202  get_techniques(db)  0 OK  
+2012-10-16 14:49:52.796567  load(data.json)  0 OK  
+2012-10-16 14:49:52.943687  load(data.json)  0 OK  
+2012-10-16 14:49:52.943793  get_techniques(db)  0 OK  
+2012-10-16 14:49:52.944171  load(data.json)  0 OK  
+2012-10-16 14:49:57.058974  get_project(db, id)  0 OK  
+2012-10-16 14:50:08.433980  get_project(db, id)  0 OK  
+2012-10-16 14:53:14.331447  load(data.json)  0 OK  
+2012-10-16 14:53:14.331726  get_techniques(db)  0 OK  
+2012-10-16 14:53:14.332128  load(data.json)  0 OK  
+2012-10-16 14:53:14.476422  load(data.json)  0 OK  
+2012-10-16 14:53:14.476532  get_techniques(db)  0 OK  
+2012-10-16 14:53:14.476902  load(data.json)  0 OK  
+2012-10-16 14:53:54.930592  load(data.json)  0 OK  
+2012-10-16 14:53:54.930985  get_techniques(db)  0 OK  
+2012-10-16 14:53:54.931472  load(data.json)  0 OK  
+2012-10-16 14:53:55.077119  load(data.json)  0 OK  
+2012-10-16 14:53:55.077231  get_techniques(db)  0 OK  
+2012-10-16 14:53:55.077614  load(data.json)  0 OK  
+2012-10-16 14:55:12.637660  load(data.json)  0 OK  
+2012-10-16 14:55:12.637785  get_techniques(db)  0 OK  
+2012-10-16 14:55:12.638438  load(data.json)  0 OK  
+2012-10-16 14:55:12.793098  load(data.json)  0 OK  
+2012-10-16 14:55:12.793377  get_techniques(db)  0 OK  
+2012-10-16 14:55:12.793785  load(data.json)  0 OK  
+2012-10-16 14:57:11.047046  load(data.json)  0 OK  
+2012-10-16 14:57:11.047153  get_techniques(db)  0 OK  
+2012-10-16 14:57:11.047549  load(data.json)  0 OK  
+2012-10-16 14:57:11.198895  load(data.json)  0 OK  
+2012-10-16 14:57:11.199184  get_techniques(db)  0 OK  
+2012-10-16 14:57:11.199660  load(data.json)  0 OK  
+2012-10-16 14:57:59.332181  load(data.json)  0 OK  
+2012-10-16 14:57:59.332329  get_techniques(db)  0 OK  
+2012-10-16 14:57:59.332715  load(data.json)  0 OK  
+2012-10-16 14:57:59.484558  load(data.json)  0 OK  
+2012-10-16 14:57:59.484669  get_techniques(db)  0 OK  
+2012-10-16 14:57:59.485039  load(data.json)  0 OK  
+2012-10-16 14:58:37.057175  load(data.json)  0 OK  
+2012-10-16 14:58:37.057792  get_techniques(db)  0 OK  
+2012-10-16 14:58:37.058302  load(data.json)  0 OK  
+2012-10-16 14:58:40.876855  load(data.json)  0 OK  
+2012-10-16 14:58:40.877142  get_techniques(db)  0 OK  
+2012-10-16 14:58:40.877558  load(data.json)  0 OK  
+2012-10-16 14:58:41.024103  load(data.json)  0 OK  
+2012-10-16 14:58:41.024214  get_techniques(db)  0 OK  
+2012-10-16 14:58:41.024583  load(data.json)  0 OK  
+2012-10-16 14:58:47.154396  get_project(db, id)  0 OK  
+2012-10-16 14:58:49.219205  get_project(db, id)  0 OK  
+2012-10-16 14:58:56.189136  get_project(db, id)  0 OK  
+2012-10-16 15:00:51.228681  load(data.json)  0 OK  
+2012-10-16 15:00:51.229210  get_techniques(db)  0 OK  
+2012-10-16 15:00:51.229734  load(data.json)  0 OK  
+2012-10-16 15:00:51.380754  load(data.json)  0 OK  
+2012-10-16 15:00:51.381038  get_techniques(db)  0 OK  
+2012-10-16 15:00:51.381451  load(data.json)  0 OK  
+2012-10-16 15:01:20.610657  get_project(db, id)  0 OK  
+2012-10-16 15:01:24.538714  get_project(db, id)  0 OK  
+2012-10-16 15:01:50.674447  get_project(db, id)  0 OK  
+2012-10-16 15:01:53.562563  get_project(db, id)  0 OK  
+2012-10-16 15:01:59.675349  get_project(db, id)  0 OK  
+2012-10-16 15:02:02.633367  get_project(db, id)  0 OK  
+2012-10-16 15:02:05.652060  get_project(db, id)  0 OK  
+2012-10-16 15:02:07.690896  get_project(db, id)  0 OK  
+2012-10-16 15:02:12.107078  get_project(db, id)  0 OK  
+2012-10-16 15:02:30.874882  get_project(db, id)  0 OK  
+2012-10-16 15:30:47.250911  get_project(db, id)  0 OK  
+2012-10-16 15:30:52.011113  get_project(db, id)  0 OK  
+2012-10-17 09:07:59.730899  load(data.json)  0 OK  
+2012-10-17 09:07:59.739127  get_techniques(db)  0 OK  
+2012-10-17 09:07:59.739622  load(data.json)  0 OK  
+2012-10-17 09:07:59.920661  load(data.json)  0 OK  
+2012-10-17 09:07:59.920768  get_techniques(db)  0 OK  
+2012-10-17 09:07:59.921150  load(data.json)  0 OK  
+2012-10-17 09:09:50.182447  search(2009-09-06)0 OK  
+2012-10-17 09:09:55.462401  search(2009-09-06)0 OK  
+2012-10-17 09:10:18.877562  search(2005-09-06)0 OK  
+2012-10-17 09:10:40.917376  search(2009-09-06)0 OK  
+2012-10-17 09:10:49.189203  search(2009-09-07)0 OK  
+2012-10-17 09:10:59.455838  search(2009-09-07)0 OK  
+2012-10-17 09:11:07.030028  search(2009-09-07)0 OK  
+2012-10-17 09:11:21.316847  search(2009-09-07)0 OK  
+2012-10-17 09:11:39.583065  search(2009-09-07)0 OK  
+2012-10-17 09:11:57.261191  search(2009-09-07)0 OK  
+2012-10-17 09:12:07.930269  search(tdp003)0 OK  
+2012-10-17 09:12:18.357104  search(tdp003)0 OK  
+2012-10-17 09:32:30.102243  load(data.json)  0 OK  
+2012-10-17 09:32:30.102519  get_techniques(db)  0 OK  
+2012-10-17 09:32:30.103393  load(data.json)  0 OK  
+2012-10-17 09:32:37.706951  get_project(db, id)  0 OK  
+2012-10-17 09:32:40.971886  get_project(db, id)  0 OK  
+2012-10-17 09:32:44.410458  get_project(db, id)  0 OK  
+2012-10-17 09:32:57.202759  get_project(db, id)  0 OK  
+2012-10-17 09:32:58.978944  get_project(db, id)  0 OK  
+2012-10-17 09:33:02.042712  get_project(db, id)  0 OK  
+2012-10-17 09:33:05.132675  search()0 OK  
+2012-10-17 09:33:06.308566  search()0 OK  
+2012-10-17 09:33:08.076623  search()0 OK  
+2012-10-17 09:33:10.684732  search()0 OK  
+2012-10-17 09:33:11.551782  search()0 OK  
+2012-10-17 09:33:14.436975  search()0 OK  
+2012-10-17 09:33:22.452637  search()0 OK  
+2012-10-17 09:36:29.265737  get_project(db, id)  0 OK  
+2012-10-17 09:36:35.994734  get_project(db, id)  0 OK  
+2012-10-17 09:36:45.642062  get_project(db, id)  0 OK  
+2012-10-17 09:37:53.356492  search(hej)0 OK  
+2012-10-17 09:37:56.037129  search(c++)0 OK  
+2012-10-17 09:38:00.980522  search(c++)0 OK  
+2012-10-17 09:38:11.338989  get_project(db, id)  0 OK  
+2012-10-17 09:38:16.290025  get_project(db, id)  0 OK  
+2012-10-17 09:38:28.996339  search(python)0 OK  
+2012-10-17 09:38:36.540254  search(2009-09-06)0 OK  
+2012-10-17 09:38:43.305712  search(c++)0 OK  
+2012-10-17 09:38:48.989730  search(python)0 OK  
+2012-10-17 09:38:58.476040  search(bla)0 OK  
+2012-10-17 09:39:03.693180  search(programming in c++)0 OK  
+2012-10-17 09:39:15.909036  search(bla programming in bla)0 OK  
+2012-10-17 09:39:23.454605  search(c programming in c++)0 OK  
+2012-10-17 09:39:32.533815  search(c programming in c++)0 OK  
+2012-10-17 09:39:44.936835  search(c programming in c++)0 OK  
+2012-10-17 09:40:26.210746  get_project(db, id)  0 OK  
+2012-10-17 09:41:01.299495  search(asd)0 OK  
+2012-10-17 09:41:03.757222  search(c++)0 OK  
+2012-10-17 09:41:15.322515  get_project(db, id)  0 OK  
+2012-10-17 09:41:26.762178  get_project(db, id)  0 OK  
+2012-10-17 09:41:30.506306  get_project(db, id)  0 OK  
+2012-10-17 09:41:38.308725  search()0 OK  
+2012-10-17 09:41:43.658940  search(ada)0 OK  
+2012-10-17 09:41:52.308425  search()0 OK  
+2012-10-17 09:42:00.654926  search(bla programming in bla)0 OK  
+2012-10-17 09:42:11.006804  search(tdp026)0 OK  
+2012-10-17 09:42:26.764823  search(2009-09-07)0 OK  
+2012-10-17 09:42:50.638357  search(2009-09-07)0 OK  
+2012-10-17 09:42:59.973942  search(2009)0 OK  
+2012-10-17 09:43:09.210556  get_project(db, id)  0 OK  
+2012-10-17 09:43:16.516517  search()0 OK  
+2012-10-17 09:43:37.045554  search(csv)0 OK  
+2012-10-17 09:43:46.939971  search(bro programming in ada)0 OK  
+2012-10-17 09:43:49.635410  get_project(db, id)  0 OK  
+2012-10-17 09:45:21.021103  search(python)0 OK  
+2012-10-17 09:46:22.614108  search(programming)0 OK  
+2012-10-17 09:46:25.524989  search(c++)0 OK  
+2012-10-17 09:47:31.443828  get_project(db, id)  0 OK  
+2012-10-17 09:48:01.107269  get_project(db, id)  0 OK  
+2012-10-17 09:48:28.442938  search(no)0 OK  
+2012-10-17 09:48:31.284327  search(ada)0 OK  
+2012-10-17 09:48:34.627466  search(ada)0 OK  
+2012-10-17 09:48:37.914364  search(ada)0 OK  
+2012-10-17 09:48:41.970425  search(ada)0 OK  
+2012-10-17 09:48:54.684374  search(bro programming in ada)0 OK  
+2012-10-17 09:48:58.557804  search(bro)0 OK  
+2012-10-17 09:49:06.371995  search(programming)0 OK  
+2012-10-17 09:49:14.540174  search(programming)0 OK  
+2012-10-17 09:49:39.237018  search(2014-09-06)0 OK  
+2012-10-17 09:49:42.618689  get_project(db, id)  0 OK  
+2012-10-17 09:49:50.028739  search()0 OK  
+2012-10-17 09:49:54.676760  search()0 OK  
+2012-10-17 09:49:57.364409  search()0 OK  
+2012-10-17 09:50:00.996345  search()0 OK  
+2012-10-17 09:50:11.724632  search()0 OK  
+2012-10-17 09:50:23.277965  search(2009)0 OK  
+2012-10-17 09:51:13.086621  search(åöäuyt657&%/¤#%#%/657)0 OK  
+2012-10-17 09:51:17.754605  get_project(db, id)  0 OK  
+2012-10-17 09:51:27.338422  get_project(db, id)  0 OK  
+2012-10-17 09:52:48.076976  search()0 OK  
+2012-10-17 09:52:51.493756  search()0 OK  
+2012-10-17 09:52:56.532873  search()0 OK  
+2012-10-17 09:54:38.930226  get_project(db, id)  0 OK  
+2012-10-17 09:54:46.289994  get_project(db, id)  0 OK  
+2012-10-17 09:54:55.705979  get_project(db, id)  0 OK  
+2012-10-17 09:55:02.214444  search(python)0 OK  
+2012-10-17 09:55:11.733213  search(java)0 OK  
+2012-10-17 09:55:20.445048  search(bla programming in bla)0 OK  
+2012-10-17 09:55:36.926617  search(2005-09-06)0 OK  
+2012-10-17 09:57:00.098532  get_project(db, id)  0 OK  
+2012-10-17 09:57:26.436483  search()0 OK  
+2012-10-17 09:57:31.748415  search()0 OK  
+2012-10-17 09:57:45.101109  search(java)0 OK  
+2012-10-17 09:57:51.840527  search(java)0 OK  
+2012-10-17 09:58:01.972644  search(java project)0 OK  
+2012-10-17 09:58:08.955589  get_project(db, id)  0 OK  
+2012-10-17 09:58:13.678590  search(java project)0 OK  
+2012-10-17 09:58:16.906034  get_project(db, id)  0 OK  
+2012-10-17 09:59:04.195878  get_project(db, id)  0 OK  
+2012-10-17 09:59:35.949260  search(python)0 OK  
+2012-10-17 09:59:40.068474  search(python)0 OK  
+2012-10-17 09:59:46.771552  search(programming in c++)0 OK  
+2012-10-17 09:59:50.978390  search(python data-module test script)0 OK  
+2012-10-17 09:59:56.290714  get_project(db, id)  0 OK  
+2012-10-17 10:00:03.276181  search(a python projekt)0 OK  
+2012-10-17 10:00:09.253378  search(a python project)0 OK  
+2012-10-17 10:00:15.204559  get_project(db, id)  0 OK  
+2012-10-17 10:00:39.626510  get_project(db, id)  0 OK  
+2012-10-17 10:00:43.570592  get_project(db, id)  0 OK  
+2012-10-17 10:00:47.123593  get_project(db, id)  0 OK  
+2012-10-17 10:01:11.610249  get_project(db, id)  0 OK  
+2012-10-17 10:01:26.242884  search(a python project)0 OK  
+2012-10-17 10:01:35.600766  search(okänt)0 OK  
+2012-10-17 10:02:02.026838  get_project(db, id)  0 OK  
+2012-10-17 10:02:25.857948  get_project(db, id)  0 OK  
+2012-10-17 10:03:55.416576  search(§1234567890+-.,<½!"#¤%&/()=?_:;>¶¡@£$€¥{[]}\±)0 OK  
+2012-10-17 10:04:13.309803  search(python)0 OK  
+2012-10-17 10:04:18.812791  search(a python project)0 OK  
+2012-10-17 10:04:55.708191  search()0 OK  
+2012-10-17 10:04:58.556442  search()0 OK  
+2012-10-17 10:06:35.564573  search(programming)0 OK  
+2012-10-17 10:06:47.443995  search(ä)0 OK  
+2012-10-17 10:07:02.958803  search(bla)0 OK  
+2012-10-17 10:07:08.077319  search(bla programming in bla)0 OK  
+2012-10-17 10:07:30.786289  get_project(db, id)  0 OK  
+2012-10-17 10:10:09.746361  get_project(db, id)  0 OK  
+2012-10-17 10:10:15.434471  get_project(db, id)  0 OK  
+2012-10-17 10:11:06.994266  get_project(db, id)  0 OK  
+2012-10-17 10:12:02.412857  search()0 OK  
+2012-10-17 10:12:08.236872  search()0 OK  
+2012-10-17 10:13:25.692581  get_project(db, id)  0 OK  
+2012-10-17 10:14:06.731896  search()0 OK  
+2012-10-17 10:14:10.503233  search(äää)0 OK  
+2012-10-17 10:14:18.954666  get_project(db, id)  0 OK  
+2012-10-17 10:15:09.297902  get_project(db, id)  0 OK  
+2012-10-17 10:15:15.748086  search()0 OK  
+2012-10-17 10:16:40.754525  get_project(db, id)  0 OK  
+2012-10-17 10:17:04.274244  get_project(db, id)  0 OK  
+2012-10-17 10:17:07.026450  get_project(db, id)  0 OK  
+2012-10-17 10:17:33.140301  search(python)0 OK  
+2012-10-17 10:17:40.468920  search(a python project)0 OK  
+2012-10-17 10:17:50.246106  search(2009-09-07)0 OK  
+2012-10-17 10:18:01.494994  search(2009)0 OK  
+2012-10-17 10:19:42.410648  get_project(db, id)  0 OK  
+2012-10-17 10:20:09.660686  search()0 OK  
+2012-10-17 10:20:41.699146  get_project(db, id)  0 OK  
+2012-10-17 10:20:55.690664  search(no)0 OK  
+2012-10-17 10:21:01.655209  search(python)0 OK  
+2012-10-17 10:21:16.197069  search(a python project)0 OK  
+2012-10-17 10:22:03.014762  search(2009-09-07 )0 OK  
+2012-10-17 10:22:24.613881  search(2009-09-07)0 OK  
+2012-10-17 10:22:34.765577  search(2009-09-07)0 OK  
+2012-10-17 10:23:45.116339  search()0 OK  
+2012-10-17 10:23:46.141043  search()0 OK  
+2012-10-17 10:23:46.452895  search()0 OK  
+2012-10-17 10:23:46.685051  search()0 OK  
+2012-10-17 10:23:46.869486  search()0 OK  
+2012-10-17 10:23:47.073816  search()0 OK  
+2012-10-17 10:23:47.302087  search()0 OK  
+2012-10-17 10:23:47.525007  search()0 OK  
+2012-10-17 10:23:47.758799  search()0 OK  
+2012-10-17 10:23:47.962800  search()0 OK  
+2012-10-17 10:23:48.142728  search()0 OK  
+2012-10-17 10:23:48.357224  search()0 OK  
+2012-10-17 10:23:48.567069  search()0 OK  
+2012-10-17 10:23:48.822482  search()0 OK  
+2012-10-17 10:23:48.996789  search()0 OK  
+2012-10-17 10:24:20.655376  search(åöä)0 OK  
+2012-10-17 10:24:24.108293  search(python)0 OK  
+2012-10-17 10:24:25.420157  search(sd)0 OK  
+2012-10-17 10:24:27.179071  search()0 OK  
+2012-10-17 10:24:32.862249  search(a python project)0 OK  
+2012-10-17 10:27:45.009796  get_project(db, id)  0 OK  
+2012-10-17 10:28:36.996853  search()0 OK  
+2012-10-17 10:29:01.468190  search()0 OK  
+2012-10-17 10:33:19.570708  get_project(db, id)  0 OK  
+2012-10-17 10:33:22.761998  get_project(db, id)  0 OK  
+2012-10-17 10:33:39.154723  get_project(db, id)  0 OK  
+2012-10-17 10:33:58.161912  search(okänt)0 OK  
+2012-10-17 10:34:13.964374  search(2009-09-07)0 OK  
+2012-10-17 10:34:33.754292  get_project(db, id)  0 OK  
+2012-10-17 10:34:40.102696  search(5)0 OK  
+2012-10-17 10:34:44.812545  search(tdp003)0 OK  
+2012-10-17 10:34:52.378209  get_project(db, id)  0 OK  
+2012-10-17 10:34:56.683010  get_project(db, id)  0 OK  
+2012-10-17 10:35:14.250821  search(tdp003)0 OK  
+2012-10-17 10:35:20.732210  search(python)0 OK  
+2012-10-17 10:35:26.188227  search()0 OK  
+2012-10-17 10:35:41.349698  search(python)0 OK  
+2012-10-17 10:35:59.318848  search(bro programming in ada)0 OK  
+2012-10-17 10:36:01.394632  get_project(db, id)  0 OK  
+2012-10-17 10:37:02.475086  search(ython)0 OK  
+2012-10-17 10:38:06.722626  get_project(db, id)  0 OK  
+2012-10-17 10:38:44.421084  search(goijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5rgoijjrgoiurjgjoi65yu5oi6jyoir5jr5rylkjrlyjr6yr6yrp6ryörpkypork6rtjuir6hyury,rmy.rkymrlkyjl5r,yjr.,ykjr.,yrj5y,rjyr.y5jrlyjrlyröykrä65ylr'upåẗ6utpkuptj6uoijtr6oy5äkyterjy5r)0 OK  
+2012-10-17 10:41:15.762697  get_project(db, id)  0 OK  
+2012-10-17 10:44:27.874725  get_project(db, id)  0 OK  
+2012-10-17 10:44:45.137985  get_project(db, id)  0 OK  
+2012-10-17 10:45:10.122635  get_project(db, id)  0 OK  
+2012-10-17 10:46:19.054527  search(ööööö)0 OK  
+2012-10-17 10:46:22.232422  search(ö)0 OK  
+2012-10-17 10:46:32.392792  search(tdp)0 OK  
+2012-10-17 10:47:54.674087  get_project(db, id)  0 OK  
+2012-10-17 10:48:09.266259  get_project(db, id)  0 OK  
+2012-10-17 10:48:18.310616  search(ö)0 OK  
+2012-10-17 10:48:20.040183  search(ä)0 OK  
+2012-10-17 10:48:22.220581  search(å)0 OK  
+2012-10-17 10:48:33.238213  search(bla)0 OK  
+2012-10-17 10:48:40.599106  search(bla programming in bla)0 OK  
+2012-10-17 10:48:46.453174  search(bla programming in bla)0 OK  
+2012-10-17 10:49:07.298742  search()0 OK  
+2012-10-17 10:49:10.333499  search()0 OK  
+2012-10-17 10:49:14.093425  search()0 OK  
+2012-10-17 10:49:25.109398  search(sdghfjgh)0 OK  
+2012-10-17 10:49:30.322617  search(dbnm)0 OK  
+2012-10-17 10:55:39.222529  load(data.json)  0 OK  
+2012-10-17 10:55:39.222664  get_techniques(db)  0 OK  
+2012-10-17 10:55:39.223037  load(data.json)  0 OK  
+2012-10-17 10:55:39.373168  load(data.json)  0 OK  
+2012-10-17 10:55:39.373276  get_techniques(db)  0 OK  
+2012-10-17 10:55:39.373656  load(data.json)  0 OK  
+2012-10-17 10:56:35.1098340 OK    load(data.json)  
+2012-10-17 10:56:35.1099500 OK    get_techniques(db)  
+2012-10-17 10:56:35.1103120 OK    load(data.json)  
+2012-10-17 10:56:35.2783860 OK    load(data.json)  
+2012-10-17 10:56:35.2786720 OK    get_techniques(db)  
+2012-10-17 10:56:35.2791190 OK    load(data.json)  
+2012-10-17 10:56:44.2521590 OK    search(ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?)
+2012-10-17 10:57:36.6941610 OK      load(data.json)  
+2012-10-17 10:57:36.6943330 OK      get_techniques(db)  
+2012-10-17 10:57:36.6948510 OK      load(data.json)  
+2012-10-17 10:57:36.8595070 OK      load(data.json)  
+2012-10-17 10:57:36.8596550 OK      get_techniques(db)  
+2012-10-17 10:57:36.8600550 OK      load(data.json)  
+2012-10-17 10:57:40.6060690 OK      load(data.json)  
+2012-10-17 10:57:40.6061680 OK      get_techniques(db)  
+2012-10-17 10:57:40.6065420 OK      load(data.json)  
+2012-10-17 10:57:40.7482120 OK      load(data.json)  
+2012-10-17 10:57:40.7483100 OK      get_techniques(db)  
+2012-10-17 10:57:40.7486750 OK      load(data.json)  
+2012-10-17 10:57:53.1926920 OK      search(ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?ages home  projects  techniques tutorial links flask tutorial need help?)
+2012-10-17 10:58:49.8664140 OK      get_project(db, id)  
+2012-10-17 10:58:55.5825190 OK      get_project(db, id)  
+2012-10-17 10:59:30.6134310 OK      search(python)
+2012-10-17 10:59:34.8530710 OK      search(python)
+2012-10-17 10:59:37.9502180 OK      search()
+2012-10-17 10:59:40.5141850 OK      get_project(db, id)  
+2012-10-17 10:59:57.0826250 OK      get_project(db, id)  
+2012-10-17 11:00:00.9086120 OK      search()
+2012-10-17 11:00:04.1969100 OK      search(1)
+2012-10-17 11:00:17.9789700 OK      search(bla programming in bla)
+2012-10-17 11:00:20.9982210 OK      search(bla programming in bla)
+2012-10-17 11:00:23.6054340 OK      search(bla programming in bl)
+2012-10-17 11:00:29.8854530 OK      get_project(db, id)  
+2012-10-17 11:00:30.7068860 OK      get_project(db, id)  
+2012-10-17 11:00:52.0609910 OK      search(asddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd)
+2012-10-17 11:00:56.1890920 OK      search(-)
+2012-10-17 11:00:57.9085430 OK      search(p)
+2012-10-17 11:03:09.3027700 OK      load(data.json)  
+2012-10-17 11:03:09.3028840 OK      get_techniques(db)  
+2012-10-17 11:03:09.3032710 OK      load(data.json)  
+2012-10-17 11:03:09.4483330 OK      load(data.json)  
+2012-10-17 11:03:09.4484420 OK      get_techniques(db)  
+2012-10-17 11:03:09.4488210 OK      load(data.json)  
+2012-10-17 11:03:14.0818400 OK      get_project(db, id)  
+2012-10-17 11:04:40.937410  0 OK    load(data.json)  
+2012-10-17 11:04:40.938019  0 OK    get_techniques(db)  
+2012-10-17 11:04:40.938495  0 OK    load(data.json)  
+2012-10-17 11:04:41.087516  0 OK    load(data.json)  
+2012-10-17 11:04:41.087623  0 OK    get_techniques(db)  
+2012-10-17 11:04:41.088013  0 OK    load(data.json)  
+2012-10-17 11:04:44.775356  0 OK    search(fhfgh)
+2012-10-17 11:05:02.790780    0 OK    load(data.json)  
+2012-10-17 11:05:02.791236    0 OK    get_techniques(db)  
+2012-10-17 11:05:02.791833    0 OK    load(data.json)  
+2012-10-17 11:05:02.940521    0 OK    load(data.json)  
+2012-10-17 11:05:02.940626    0 OK    get_techniques(db)  
+2012-10-17 11:05:02.940996    0 OK    load(data.json)  
+2012-10-17 11:05:25.719646    0 OK    search(fdfdfd)
+2012-10-17 13:19:40.796308    0 OK    load(data.json)  
+2012-10-17 13:19:40.796399    0 OK    get_techniques(db)  
+2012-10-17 13:19:40.796769    0 OK    load(data.json)  
+2012-10-17 13:19:40.942846    0 OK    load(data.json)  
+2012-10-17 13:19:40.942946    0 OK    get_techniques(db)  
+2012-10-17 13:19:40.943322    0 OK    load(data.json)  
+2012-10-17 13:20:20.113398    0 OK    load(data.json)  
+2012-10-17 13:20:20.113498    0 OK    get_techniques(db)  
+2012-10-17 13:20:20.113860    0 OK    load(data.json)  
+2012-10-17 13:20:20.259034    0 OK    load(data.json)  
+2012-10-17 13:20:20.259330    0 OK    get_techniques(db)  
+2012-10-17 13:20:20.259816    0 OK    load(data.json)  
+2012-10-17 13:20:58.633209    0 OK    load(data.json)  
+2012-10-17 13:20:58.633337    0 OK    get_techniques(db)  
+2012-10-17 13:20:58.633707    0 OK    load(data.json)  
+2012-10-17 13:20:58.776717    0 OK    load(data.json)  
+2012-10-17 13:20:58.776815    0 OK    get_techniques(db)  
+2012-10-17 13:20:58.777194    0 OK    load(data.json)  
+2012-10-17 13:21:04.540097    0 OK    search(python)
+2012-10-17 13:21:05.260441    0 OK    search()
+2012-10-17 13:21:05.463107    0 OK    search()
+2012-10-17 13:21:05.693177    0 OK    search()
+2012-10-17 13:21:09.036784    0 OK    search(python)
+2012-10-17 13:22:24.690424    0 OK    load(data.json)  
+2012-10-17 13:22:24.690818    0 OK    get_techniques(db)  
+2012-10-17 13:22:24.691303    0 OK    load(data.json)  
+2012-10-17 13:22:24.834416    0 OK    load(data.json)  
+2012-10-17 13:22:24.834519    0 OK    get_techniques(db)  
+2012-10-17 13:22:24.834881    0 OK    load(data.json)  
+2012-10-17 13:23:47.643250    0 OK    load(data.json)  
+2012-10-17 13:23:47.643351    0 OK    get_techniques(db)  
+2012-10-17 13:23:47.643745    0 OK    load(data.json)  
+2012-10-17 13:26:43.016739    0 OK    load(data.json)  
+2012-10-17 13:26:43.017089    0 OK    get_techniques(db)  
+2012-10-17 13:26:43.017761    0 OK    load(data.json)  
+2012-10-17 13:28:22.994851    0 OK    load(data.json)  
+2012-10-17 13:28:22.994956    0 OK    get_techniques(db)  
+2012-10-17 13:28:22.995302    0 OK    load(data.json)  
+2012-10-17 13:28:25.094914    0 OK    search(python)
+2012-10-17 13:28:28.510225    0 OK    search(python)
+2012-10-17 13:28:56.513922    0 OK    load(data.json)  
+2012-10-17 13:28:56.514015    0 OK    get_techniques(db)  
+2012-10-17 13:28:56.514373    0 OK    load(data.json)  
+2012-10-17 13:29:00.046155    0 OK    load(data.json)  
+2012-10-17 13:29:00.046264    0 OK    get_techniques(db)  
+2012-10-17 13:29:00.046648    0 OK    load(data.json)  
+2012-10-17 13:29:00.189650    0 OK    load(data.json)  
+2012-10-17 13:29:00.189758    0 OK    get_techniques(db)  
+2012-10-17 13:29:00.190134    0 OK    load(data.json)  
+2012-10-17 13:29:07.270046    0 OK    search(python)
+2012-10-17 13:29:10.925300    0 OK    search(bro programming in ada)
+2012-10-17 13:29:26.538642    0 OK    load(data.json)  
+2012-10-17 13:29:26.538747    0 OK    get_techniques(db)  
+2012-10-17 13:29:26.539113    0 OK    load(data.json)  
+2012-10-17 13:29:32.145225    0 OK    load(data.json)  
+2012-10-17 13:29:32.145339    0 OK    get_techniques(db)  
+2012-10-17 13:29:32.145714    0 OK    load(data.json)  
+2012-10-17 13:29:32.291347    0 OK    load(data.json)  
+2012-10-17 13:29:32.291658    0 OK    get_techniques(db)  
+2012-10-17 13:29:32.292069    0 OK    load(data.json)  
+2012-10-17 13:29:37.325601    0 OK    search(python)
+2012-10-17 13:29:55.352571    0 OK    load(data.json)  
+2012-10-17 13:29:55.352673    0 OK    get_techniques(db)  
+2012-10-17 13:29:55.353038    0 OK    load(data.json)  
+2012-10-17 13:29:55.497339    0 OK    load(data.json)  
+2012-10-17 13:29:55.497445    0 OK    get_techniques(db)  
+2012-10-17 13:29:55.497820    0 OK    load(data.json)  
+2012-10-17 13:30:00.159990    0 OK    search(python)
+2012-10-17 13:30:03.828949    0 OK    search(bla programming in bla)
+2012-10-17 13:30:07.316397    0 OK    search(programming)
+2012-10-17 13:30:10.934564    0 OK    search()
+2012-10-17 13:30:16.133193    0 OK    search(a)
+2012-10-17 13:30:23.638733    0 OK    search(programming in c++)
+2012-10-17 13:30:26.389752    0 OK    search(programming)
+2012-10-17 13:30:29.461253    0 OK    search(bro programming in ada)
+2012-10-17 13:30:43.916044    0 OK    load(data.json)  
+2012-10-17 13:30:43.916332    0 OK    get_techniques(db)  
+2012-10-17 13:30:43.916765    0 OK    load(data.json)  
+2012-10-17 13:30:44.064570    0 OK    load(data.json)  
+2012-10-17 13:30:44.064676    0 OK    get_techniques(db)  
+2012-10-17 13:30:44.065047    0 OK    load(data.json)  
+2012-10-17 13:31:31.077929    0 OK    load(data.json)  
+2012-10-17 13:31:31.078131    0 OK    get_techniques(db)  
+2012-10-17 13:31:31.078526    0 OK    load(data.json)  
+2012-10-17 13:31:31.227357    0 OK    load(data.json)  
+2012-10-17 13:31:31.227498    0 OK    get_techniques(db)  
+2012-10-17 13:31:31.227868    0 OK    load(data.json)  
+2012-10-17 13:31:39.070881    0 OK    search(python)
+2012-10-17 13:31:47.426658    0 OK    get_project(db, id)  
+2012-10-17 13:31:50.730240    0 OK    get_project(db, id)  
+2012-10-17 13:31:55.304925    0 OK    search(ada)
+2012-10-17 13:31:57.186778    0 OK    get_project(db, id)  
+2012-10-17 13:32:05.052549    0 OK    search(python)
+2012-10-17 13:32:09.879144    0 OK    search(python)
+2012-10-17 13:32:12.443044    0 OK    get_project(db, id)  
+2012-10-17 13:32:15.315895    0 OK    get_project(db, id)  
+2012-10-17 13:32:34.567875    0 OK    get_project(db, id)  
+2012-10-17 13:32:38.109447    0 OK    search(project)
+2012-10-17 13:32:43.580299    0 OK    search(programming)
+2012-10-17 13:32:49.102427    0 OK    search(programming)
+2012-10-17 13:32:56.935166    0 OK    search(programming)
+2012-10-17 13:32:59.082617    0 OK    get_project(db, id)  
+2012-10-17 13:33:09.172379    0 OK    search(programming)
+2012-10-17 13:33:21.508977    0 OK    search(programming)
+2012-10-17 13:37:08.787357    0 OK    load(data.json)  
+2012-10-17 13:37:08.787505    0 OK    get_techniques(db)  
+2012-10-17 13:37:08.787884    0 OK    load(data.json)  
+2012-10-17 13:37:13.390970    0 OK    search(2009-09-06)
+2012-10-17 13:37:17.789978    0 OK    search(2009-09-07)
+2012-10-17 13:37:28.230338    0 OK    search(c++)
+2012-10-17 13:37:31.106415    0 OK    get_project(db, id)  
+2012-10-17 13:37:38.406729    0 OK    search(tdp)
+2012-10-17 13:38:36.640008    0 OK    load(data.json)  
+2012-10-17 13:38:36.640117    0 OK    get_techniques(db)  
+2012-10-17 13:38:36.640486    0 OK    load(data.json)  
+2012-10-17 13:38:49.063566    0 OK    load(data.json)  
+2012-10-17 13:38:49.063835    0 OK    get_techniques(db)  
+2012-10-17 13:38:49.064281    0 OK    load(data.json)  
+2012-10-17 13:38:50.101503    0 OK    search()
+2012-10-17 13:42:46.101128    0 OK    search()
+2012-10-17 13:45:15.037799    0 OK    search(python)
+2012-10-17 13:45:21.470626    0 OK    search(python)
+2012-10-17 13:45:28.517962    0 OK    search(python)
+2012-10-17 13:45:32.438723    0 OK    search(ds)
+2012-10-17 13:45:37.795485    0 OK    search(python)
+2012-10-17 13:48:50.249022    0 OK    load(data.json)  
+2012-10-17 13:48:50.249117    0 OK    get_techniques(db)  
+2012-10-17 13:48:50.249476    0 OK    load(data.json)  
+2012-10-17 13:48:50.410760    0 OK    load(data.json)  
+2012-10-17 13:48:50.410869    0 OK    get_techniques(db)  
+2012-10-17 13:48:50.411230    0 OK    load(data.json)  
+2012-10-17 13:48:56.356724    0 OK    search(python)
+2012-10-17 13:49:00.206498    0 OK    search(python)
+2012-10-17 13:49:07.582138    0 OK    search(python)
+2012-10-17 13:49:16.585059    0 OK    search(python)
+2012-10-17 13:50:24.381524    0 OK    search(python)
+2012-10-17 13:50:32.292794    0 OK    search(python)
+2012-10-17 13:51:02.524992    0 OK    load(data.json)  
+2012-10-17 13:51:02.525096    0 OK    get_techniques(db)  
+2012-10-17 13:51:02.525456    0 OK    load(data.json)  
+2012-10-17 13:51:07.247374    0 OK    search(python)
+2012-10-17 13:51:17.260909    0 OK    search(python)
+2012-10-17 13:51:20.172742    0 OK    search()
+2012-10-17 13:51:22.396734    0 OK    search()
+2012-10-17 13:51:25.805796    0 OK    search(python)
+2012-10-17 13:51:26.054811    0 OK    search()
+2012-10-17 13:51:27.180345    0 OK    search()
+2012-10-17 13:52:56.607169    0 OK    load(data.json)  
+2012-10-17 13:52:56.607268    0 OK    get_techniques(db)  
+2012-10-17 13:52:56.607783    0 OK    load(data.json)  
+2012-10-17 13:52:59.049529    0 OK    search(python)
+2012-10-17 13:53:03.940251    0 OK    search(python)
+2012-10-17 13:53:09.838157    0 OK    search(python)
+2012-10-17 13:54:19.432377    0 OK    load(data.json)  
+2012-10-17 13:54:19.432469    0 OK    get_techniques(db)  
+2012-10-17 13:54:19.432816    0 OK    load(data.json)  
+2012-10-17 13:54:22.590372    0 OK    search(python)
+2012-10-17 13:55:16.076429    0 OK    load(data.json)  
+2012-10-17 13:55:16.076530    0 OK    get_techniques(db)  
+2012-10-17 13:55:16.076892    0 OK    load(data.json)  
+2012-10-17 13:55:20.837133    0 OK    search(python)
+2012-10-17 13:58:39.209615    0 OK    load(data.json)  
+2012-10-17 13:58:39.209710    0 OK    get_techniques(db)  
+2012-10-17 13:58:39.210067    0 OK    load(data.json)  
+2012-10-17 13:58:39.351279    0 OK    load(data.json)  
+2012-10-17 13:58:39.351379    0 OK    get_techniques(db)  
+2012-10-17 13:58:39.351791    0 OK    load(data.json)  
+2012-10-17 13:58:44.853578    0 OK    search(python)
+2012-10-17 13:59:16.868315    0 OK    load(data.json)  
+2012-10-17 13:59:16.868409    0 OK    get_techniques(db)  
+2012-10-17 13:59:16.868763    0 OK    load(data.json)  
+2012-10-17 13:59:17.488044    0 OK    search(python)
+2012-10-17 14:00:23.561704    0 OK    load(data.json)  
+2012-10-17 14:00:23.562141    0 OK    get_techniques(db)  
+2012-10-17 14:00:23.562655    0 OK    load(data.json)  
+2012-10-17 14:00:28.422022    0 OK    search(python)
+2012-10-17 14:01:22.291520    0 OK    load(data.json)  
+2012-10-17 14:01:22.291615    0 OK    get_techniques(db)  
+2012-10-17 14:01:22.291975    0 OK    load(data.json)  
+2012-10-17 14:01:27.133993    0 OK    search(python)
+2012-10-17 14:04:56.971911    0 OK    load(data.json)  
+2012-10-17 14:04:56.972196    0 OK    get_techniques(db)  
+2012-10-17 14:04:56.972622    0 OK    load(data.json)  
+2012-10-17 14:05:12.260234    0 OK    load(data.json)  
+2012-10-17 14:05:12.260325    0 OK    get_techniques(db)  
+2012-10-17 14:05:12.260685    0 OK    load(data.json)  
+2012-10-17 14:05:13.205102    0 OK    search(python)
+2012-10-17 14:05:14.029978    0 OK    search()
+2012-10-17 14:05:16.636877    0 OK    search(python)
+2012-10-17 14:05:56.840404    0 OK    load(data.json)  
+2012-10-17 14:05:56.840505    0 OK    get_techniques(db)  
+2012-10-17 14:05:56.840897    0 OK    load(data.json)  
+2012-10-17 14:05:57.546690    0 OK    search(python)
+2012-10-17 14:06:01.302030    0 OK    search(python)
+2012-10-17 14:06:36.364495    0 OK    load(data.json)  
+2012-10-17 14:06:36.364588    0 OK    get_techniques(db)  
+2012-10-17 14:06:36.364961    0 OK    load(data.json)  
+2012-10-17 14:06:38.572104    0 OK    search(python)
+2012-10-17 14:06:41.878400    0 OK    search(python)
+2012-10-17 14:15:30.359724    0 OK    load(data.json)  
+2012-10-17 14:15:30.360037    0 OK    get_techniques(db)  
+2012-10-17 14:15:30.360498    0 OK    load(data.json)  
+2012-10-17 14:15:35.432958    0 OK    load(data.json)  
+2012-10-17 14:15:35.433239    0 OK    get_techniques(db)  
+2012-10-17 14:15:35.433698    0 OK    load(data.json)  
+2012-10-17 14:15:35.576025    0 OK    load(data.json)  
+2012-10-17 14:15:35.576123    0 OK    get_techniques(db)  
+2012-10-17 14:15:35.576493    0 OK    load(data.json)  
+2012-10-17 14:15:40.844122    0 OK    search(python)
+2012-10-17 14:16:32.215706    0 OK    load(data.json)  
+2012-10-17 14:16:32.215953    0 OK    get_techniques(db)  
+2012-10-17 14:16:32.216384    0 OK    load(data.json)  
+2012-10-17 14:16:50.523816    0 OK    search(ok)
+2012-10-17 14:16:55.027977    0 OK    search(python)
+2012-10-17 14:17:42.920417    0 OK    load(data.json)  
+2012-10-17 14:17:42.920526    0 OK    get_techniques(db)  
+2012-10-17 14:17:42.920895    0 OK    load(data.json)  
+2012-10-17 14:17:49.040173    0 OK    search(python)
+2012-10-17 14:24:17.010056    0 OK    load(data.json)  
+2012-10-17 14:24:17.010346    0 OK    get_techniques(db)  
+2012-10-17 14:24:17.010778    0 OK    load(data.json)  
+2012-10-17 14:24:21.391179    0 OK    load(data.json)  
+2012-10-17 14:24:21.391282    0 OK    get_techniques(db)  
+2012-10-17 14:24:21.391681    0 OK    load(data.json)  
+2012-10-17 14:24:21.533417    0 OK    load(data.json)  
+2012-10-17 14:24:21.533515    0 OK    get_techniques(db)  
+2012-10-17 14:24:21.533894    0 OK    load(data.json)  
+2012-10-17 14:25:07.155252    0 OK    load(data.json)  
+2012-10-17 14:25:07.155349    0 OK    get_techniques(db)  
+2012-10-17 14:25:07.155741    0 OK    load(data.json)  
+2012-10-17 14:26:08.894311    0 OK    load(data.json)  
+2012-10-17 14:26:08.894412    0 OK    get_techniques(db)  
+2012-10-17 14:26:08.894771    0 OK    load(data.json)  
+2012-10-17 14:26:12.292814    0 OK    search(python)
+2012-10-17 14:26:41.331673    0 OK    load(data.json)  
+2012-10-17 14:26:41.331775    0 OK    get_techniques(db)  
+2012-10-17 14:26:41.332135    0 OK    load(data.json)  
+2012-10-17 14:26:43.046875    0 OK    search(python)
+2012-10-17 14:26:45.977140    0 OK    search(python)
+2012-10-17 14:26:48.806578    0 OK    search(python)
+2012-10-17 14:26:53.062476    0 OK    search(python)
+2012-10-17 14:26:58.159050    0 OK    search(python)
+2012-10-17 14:27:30.926937    0 OK    load(data.json)  
+2012-10-17 14:27:30.927037    0 OK    get_techniques(db)  
+2012-10-17 14:27:30.927395    0 OK    load(data.json)  
+2012-10-17 14:27:38.957662    0 OK    search(python)
+2012-10-17 14:28:37.718223    0 OK    load(data.json)  
+2012-10-17 14:28:37.718482    0 OK    get_techniques(db)  
+2012-10-17 14:28:37.718937    0 OK    load(data.json)  
+2012-10-17 14:28:42.161624    0 OK    load(data.json)  
+2012-10-17 14:28:42.161764    0 OK    get_techniques(db)  
+2012-10-17 14:28:42.162140    0 OK    load(data.json)  
+2012-10-17 14:28:42.311732    0 OK    load(data.json)  
+2012-10-17 14:28:42.311839    0 OK    get_techniques(db)  
+2012-10-17 14:28:42.312221    0 OK    load(data.json)  
+2012-10-17 14:28:47.580400    0 OK    search(python)
+2012-10-17 14:29:53.018892    0 OK    load(data.json)  
+2012-10-17 14:29:53.019175    0 OK    get_techniques(db)  
+2012-10-17 14:29:53.019977    0 OK    load(data.json)  
+2012-10-17 14:29:58.400426    0 OK    search(python)
+2012-10-17 14:31:26.967230    0 OK    load(data.json)  
+2012-10-17 14:31:26.967323    0 OK    get_techniques(db)  
+2012-10-17 14:31:26.967725    0 OK    load(data.json)  
+2012-10-17 14:31:29.939099    0 OK    search(python)
+2012-10-17 14:33:07.355562    0 OK    load(data.json)  
+2012-10-17 14:33:07.355654    0 OK    get_techniques(db)  
+2012-10-17 14:33:07.356018    0 OK    load(data.json)  
+2012-10-17 14:33:07.498072    0 OK    load(data.json)  
+2012-10-17 14:33:07.498173    0 OK    get_techniques(db)  
+2012-10-17 14:33:07.498558    0 OK    load(data.json)  
+2012-10-17 14:33:09.712650    0 OK    search(python)
+2012-10-17 14:33:13.854448    0 OK    search(python)
+2012-10-17 14:37:20.525001    0 OK    load(data.json)  
+2012-10-17 14:37:20.525097    0 OK    get_techniques(db)  
+2012-10-17 14:37:20.525460    0 OK    load(data.json)  
+2012-10-17 14:37:56.069742    0 OK    load(data.json)  
+2012-10-17 14:37:56.069838    0 OK    get_techniques(db)  
+2012-10-17 14:37:56.070213    0 OK    load(data.json)  
+2012-10-17 14:37:59.150386    0 OK    search(python)
+2012-10-17 14:38:02.174105    0 OK    search(python)
+2012-10-17 14:38:06.974750    0 OK    search(python)
+2012-10-17 14:38:11.460495    0 OK    search(python)
+2012-10-17 14:38:26.451192    0 OK    load(data.json)  
+2012-10-17 14:38:26.451660    0 OK    get_techniques(db)  
+2012-10-17 14:38:26.452224    0 OK    load(data.json)  
+2012-10-17 14:38:31.191482    0 OK    search(python)
+2012-10-17 14:38:35.766537    0 OK    search(python)
+2012-10-17 14:38:42.502479    0 OK    search(python)
+2012-10-17 14:38:46.571659    0 OK    search(object)
+2012-10-17 14:39:35.178877    0 OK    load(data.json)  
+2012-10-17 14:39:35.179265    0 OK    get_techniques(db)  
+2012-10-17 14:39:35.179895    0 OK    load(data.json)  
+2012-10-17 14:39:38.068893    0 OK    search(python)
+2012-10-17 14:39:41.526523    0 OK    search(python)
+2012-10-17 14:40:02.554224    0 OK    load(data.json)  
+2012-10-17 14:40:02.554316    0 OK    get_techniques(db)  
+2012-10-17 14:40:02.554677    0 OK    load(data.json)  
+2012-10-17 14:40:05.854389    0 OK    search(python)
+2012-10-17 14:40:09.568338    0 OK    search(python)
+2012-10-17 14:40:10.300661    0 OK    search()
+2012-10-17 14:40:13.206251    0 OK    search(python)
+2012-10-17 14:40:16.236559    0 OK    search(python)
+2012-10-17 14:40:32.492685    0 OK    search(python)
+2012-10-17 14:40:40.317272    0 OK    search(python)
+2012-10-17 14:43:49.411850    0 OK    load(data.json)  
+2012-10-17 14:43:49.412171    0 OK    get_techniques(db)  
+2012-10-17 14:43:49.413068    0 OK    load(data.json)  
+2012-10-17 14:47:21.102183    0 OK    search()
+2012-10-17 14:47:23.676575    0 OK    search()
+2012-10-17 14:47:26.437209    0 OK    search()
+2012-10-17 14:47:29.741250    0 OK    search(python)
+2012-10-17 14:47:33.450430    0 OK    get_project(db, id)  
+2012-10-17 14:47:41.789190    0 OK    search(python)
+2012-10-17 14:49:56.207578    0 OK    load(data.json)  
+2012-10-17 14:49:56.207679    0 OK    get_techniques(db)  
+2012-10-17 14:49:56.208041    0 OK    load(data.json)  
+2012-10-17 14:49:59.325146    0 OK    search(python)
+2012-10-17 14:50:03.751331    0 OK    search(python)
+2012-10-17 14:50:07.359345    0 OK    search(python)
+2012-10-17 14:50:41.914977    0 OK    load(data.json)  
+2012-10-17 14:50:41.915226    0 OK    get_techniques(db)  
+2012-10-17 14:50:41.916302    0 OK    load(data.json)  
+2012-10-17 14:50:43.020371    0 OK    search(python)
+2012-10-17 14:50:46.268590    0 OK    search(python)
+2012-10-17 14:50:49.102165    0 OK    search(python)
+2012-10-17 14:51:10.354857    0 OK    load(data.json)  
+2012-10-17 14:51:10.355202    0 OK    get_techniques(db)  
+2012-10-17 14:51:10.355745    0 OK    load(data.json)  
+2012-10-17 14:51:12.373562    0 OK    search(python)
+2012-10-17 14:51:17.092192    0 OK    search(python)
+2012-10-17 14:51:26.092050    0 OK    search(python)
+2012-10-17 14:54:35.239630    0 OK    search(python)
+2012-10-17 14:54:43.260450    0 OK    search(python)
+2012-10-17 14:55:21.197097    0 OK    get_project(db, id)  
+2012-10-17 14:55:32.988204    0 OK    search()
+2012-10-17 14:57:27.936982    0 OK    load(data.json)  
+2012-10-17 14:57:27.937087    0 OK    get_techniques(db)  
+2012-10-17 14:57:27.937460    0 OK    load(data.json)  
+2012-10-17 14:57:28.083782    0 OK    load(data.json)  
+2012-10-17 14:57:28.083881    0 OK    get_techniques(db)  
+2012-10-17 14:57:28.084253    0 OK    load(data.json)  
+2012-10-17 14:58:27.845807    0 OK    load(data.json)  
+2012-10-17 14:58:27.845917    0 OK    get_techniques(db)  
+2012-10-17 14:58:27.846302    0 OK    load(data.json)  
+2012-10-17 14:58:27.992771    0 OK    load(data.json)  
+2012-10-17 14:58:27.992880    0 OK    get_techniques(db)  
+2012-10-17 14:58:27.993256    0 OK    load(data.json)  
+2012-10-17 15:05:09.172480    0 OK    load(data.json)  
+2012-10-17 15:05:09.172612    0 OK    get_techniques(db)  
+2012-10-17 15:05:09.172974    0 OK    load(data.json)  
+2012-10-17 15:05:09.333774    0 OK    load(data.json)  
+2012-10-17 15:05:09.333890    0 OK    get_techniques(db)  
+2012-10-17 15:05:09.334258    0 OK    load(data.json)  
+2012-10-17 15:05:17.669384    0 OK    search(python)
+2012-10-17 15:05:24.317830    0 OK    search(ada)
+2012-10-17 15:05:27.845136    0 OK    search()
+2012-10-17 15:05:35.967159    0 OK    search(ada)
+2012-10-17 15:05:42.806296    0 OK    search(ada)
+2012-10-17 15:05:46.742681    0 OK    search(python)
+2012-10-17 15:05:50.662094    0 OK    search(csv)
+2012-10-17 15:05:52.146785    0 OK    get_project(db, id)  
+2012-10-17 15:06:00.564319    0 OK    search(python)
+2012-10-17 15:06:02.346119    0 OK    get_project(db, id)  
+2012-10-17 15:06:06.538074    0 OK    get_project(db, id)  
+2012-10-17 15:06:23.490454    0 OK    get_project(db, id)  
+2012-10-17 15:06:30.298235    0 OK    get_project(db, id)  
+2012-10-17 15:07:16.133798    0 OK    load(data.json)  
+2012-10-17 15:07:16.134103    0 OK    get_techniques(db)  
+2012-10-17 15:07:16.134555    0 OK    load(data.json)  
+2012-10-17 15:07:16.281257    0 OK    load(data.json)  
+2012-10-17 15:07:16.281364    0 OK    get_techniques(db)  
+2012-10-17 15:07:16.281741    0 OK    load(data.json)  
+2012-10-17 15:07:21.486648    0 OK    search(python)
+2012-10-17 15:07:26.258770    0 OK    get_project(db, id)  
+2012-10-17 15:08:08.884840    0 OK    load(data.json)  
+2012-10-17 15:08:08.884945    0 OK    get_techniques(db)  
+2012-10-17 15:08:08.885324    0 OK    load(data.json)  
+2012-10-17 15:08:09.030792    0 OK    load(data.json)  
+2012-10-17 15:08:09.030893    0 OK    get_techniques(db)  
+2012-10-17 15:08:09.031279    0 OK    load(data.json)  
+2012-10-17 15:08:15.681292    0 OK    search(python)
+2012-10-17 15:08:26.261189    0 OK    search(python)
+2012-10-17 15:08:37.153694    0 OK    search(python)
+2012-10-17 15:08:38.906437    0 OK    get_project(db, id)  
+2012-10-17 15:08:41.713893    0 OK    get_project(db, id)  
+2012-10-17 15:09:01.524496    0 OK    load(data.json)  
+2012-10-17 15:09:01.524884    0 OK    get_techniques(db)  
+2012-10-17 15:09:01.525407    0 OK    load(data.json)  
+2012-10-17 15:09:01.674874    0 OK    load(data.json)  
+2012-10-17 15:09:01.674972    0 OK    get_techniques(db)  
+2012-10-17 15:09:01.675350    0 OK    load(data.json)  
+2012-10-17 15:09:05.806712    0 OK    search(python)
+2012-10-17 15:09:10.464098    0 OK    search(python)
+2012-10-18 11:10:57.712167    0 OK    load(data.json)  
+2012-10-18 11:10:57.714986    0 OK    get_techniques(db)  
+2012-10-18 11:10:57.715429    0 OK    load(data.json)  
+2012-10-18 11:10:57.967696    0 OK    load(data.json)  
+2012-10-18 11:10:57.967998    0 OK    get_techniques(db)  
+2012-10-18 11:10:57.968414    0 OK    load(data.json)  
+2012-10-18 11:11:13.859991    0 OK    search(python)
+2012-10-18 11:11:39.159481    0 OK    load(data.json)  
+2012-10-18 11:11:39.159606    0 OK    get_techniques(db)  
+2012-10-18 11:11:39.159989    0 OK    load(data.json)  
+2012-10-18 11:11:39.380035    0 OK    load(data.json)  
+2012-10-18 11:11:39.380311    0 OK    get_techniques(db)  
+2012-10-18 11:11:39.380753    0 OK    load(data.json)  
+2012-10-18 11:11:45.109943    0 OK    search(python)
+2012-10-18 11:12:18.647414    0 OK    search(python)
+2012-10-18 11:16:07.138726    0 OK    get_project(db, id)  
+2012-10-18 11:16:27.078100    0 OK    get_project(db, id)  
+2012-10-18 11:17:17.052159    0 OK    load(data.json)  
+2012-10-18 11:17:17.052288    0 OK    get_techniques(db)  
+2012-10-18 11:17:17.052665    0 OK    load(data.json)  
+2012-10-18 11:17:20.386084    0 OK    get_project(db, id)  
+2012-10-18 11:20:28.658071    0 OK    get_project(db, id)  
+2012-10-18 11:20:39.338219    0 OK    get_project(db, id)  
+2012-10-18 11:21:00.482191    0 OK    get_project(db, id)  
+2012-10-18 12:29:10.472602    0 OK    search(python)
+2012-10-18 12:29:20.986052    0 OK    get_project(db, id)  
+2012-10-19 10:32:29.537184    0 OK    load(data.json)  
+2012-10-19 10:32:29.544469    0 OK    get_techniques(db)  
+2012-10-19 10:32:29.545046    0 OK    load(data.json)  
+2012-10-19 10:32:29.820232    0 OK    load(data.json)  
+2012-10-19 10:32:29.820333    0 OK    get_techniques(db)  
+2012-10-19 10:32:29.820712    0 OK    load(data.json)  
+2012-10-19 10:32:55.754920    0 OK    search(python)
+2012-10-19 10:34:37.245855    0 OK    load(data.json)  
+2012-10-19 10:34:37.246160    0 OK    get_techniques(db)  
+2012-10-19 10:34:37.246624    0 OK    load(data.json)  
+2012-10-19 10:34:37.396784    0 OK    load(data.json)  
+2012-10-19 10:34:37.396891    0 OK    get_techniques(db)  
+2012-10-19 10:34:37.397273    0 OK    load(data.json)  
+2012-10-19 10:36:55.554575    0 OK    load(data.json)  
+2012-10-19 10:36:55.554681    0 OK    get_techniques(db)  
+2012-10-19 10:36:55.555057    0 OK    load(data.json)  
+2012-10-19 10:36:55.698622    0 OK    load(data.json)  
+2012-10-19 10:36:55.698730    0 OK    get_techniques(db)  
+2012-10-19 10:36:55.699121    0 OK    load(data.json)  
+2012-10-19 10:43:34.541400    0 OK    load(data.json)  
+2012-10-19 10:43:34.541514    0 OK    get_techniques(db)  
+2012-10-19 10:43:34.541885    0 OK    load(data.json)  
+2012-10-19 10:48:12.684766    0 OK    load(data.json)  
+2012-10-19 10:48:12.684862    0 OK    get_techniques(db)  
+2012-10-19 10:48:12.685220    0 OK    load(data.json)  
+2012-10-19 10:54:16.797485    0 OK    load(data.json)  
+2012-10-19 10:54:16.797615    0 OK    get_techniques(db)  
+2012-10-19 10:54:16.797994    0 OK    load(data.json)  
+2012-10-19 10:54:16.941869    0 OK    load(data.json)  
+2012-10-19 10:54:16.941971    0 OK    get_techniques(db)  
+2012-10-19 10:54:16.942340    0 OK    load(data.json)  
+2012-10-19 10:54:21.130430    0 OK    get_project(db, id)  
+2012-10-19 10:58:23.443551    0 OK    load(data.json)  
+2012-10-19 10:58:23.443928    0 OK    get_techniques(db)  
+2012-10-19 10:58:23.444440    0 OK    load(data.json)  
+2012-10-19 10:58:23.591100    0 OK    load(data.json)  
+2012-10-19 10:58:23.591202    0 OK    get_techniques(db)  
+2012-10-19 10:58:23.591651    0 OK    load(data.json)  
+2012-10-19 10:58:30.386745    0 OK    get_project(db, id)  
+2012-10-19 10:59:27.831594    0 OK    load(data.json)  
+2012-10-19 10:59:27.831742    0 OK    get_techniques(db)  
+2012-10-19 10:59:27.832135    0 OK    load(data.json)  
+2012-10-19 10:59:27.984003    0 OK    load(data.json)  
+2012-10-19 10:59:27.984111    0 OK    get_techniques(db)  
+2012-10-19 10:59:27.984494    0 OK    load(data.json)  
+2012-10-19 10:59:33.221748    0 OK    search(python)
+2012-10-19 10:59:37.215116    0 OK    search(python)
+2012-10-19 10:59:38.810885    0 OK    get_project(db, id)  
+2012-10-19 10:59:42.128123    0 OK    search(python)
+2012-10-19 10:59:44.884265    0 OK    get_project(db, id)  
+2012-10-26 13:51:50.894113    0 OK    load(data.json)  
+2012-10-26 13:51:50.958218    0 OK    get_techniques(db)  
+2012-10-26 13:51:50.958713    0 OK    load(data.json)  
+2012-10-26 13:51:51.406005    0 OK    load(data.json)  
+2012-10-26 13:51:51.409749    0 OK    get_techniques(db)  
+2012-10-26 13:51:51.410406    0 OK    load(data.json)  
+2012-10-26 13:52:11.354370    0 OK    search(python)
+2012-10-26 13:52:15.042169    0 OK    get_project(db, id)  
+2012-10-26 13:52:51.495096    0 OK    search(2009-09-07)
+2012-10-26 13:54:00.305806    0 OK    load(data.json)  
+2012-10-26 13:54:00.305960    0 OK    get_techniques(db)  
+2012-10-26 13:54:00.306632    0 OK    load(data.json)  
+2012-10-26 13:54:00.449474    0 OK    load(data.json)  
+2012-10-26 13:54:00.449681    0 OK    get_techniques(db)  
+2012-10-26 13:54:00.450065    0 OK    load(data.json)  
+2012-10-26 13:54:06.407270    0 OK    search(2009-09-07)
+2012-10-26 13:54:18.072395    0 OK    search(2009-09-28)
+2012-10-26 13:54:29.692869    0 OK    search(2009-09-28)

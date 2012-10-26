@@ -1,33 +1,34 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/html" lang="en" xml:lang="en">
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="description" content="Innovativ Programmering LIU Sweden" />
 	<meta name="keywords" content="Python, Programmers" />
 	<meta name="author" content="Daniel Morja, Love Larsson" />
-	<link rel="stylesheet" type="text/css" href="../static/style/variant-dark.css" title="Dark" />
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style/variant-dark.css')  }}" />
+
 	<title>danmo222, lovla279</title>
 </head>
 
 <!DOCTYPE html>
 <html>
-
 <body>
 
 
 <div id="header">
 	<div id="title">
         <form name="form1" action="../search" method="POST" align=left>
-            <input name="key"></input>
-            <input type="submit" value="Search"></input>
+            <input name="key">
+            <input type="submit" value="Search">
 
             <select name="search_by" align=left>
 
-                <option value="None">Search By: </option>
+                <option value="">Search By: </option>
                 <option value="project_name">Project name</option>
                 <option value="start_date">Start Date</option>
                 <option value="end_date">End Date</option>
                 <option value="course_id">Course ID</option>
+                <option value="technique">Techniques</option>
 
             </select>
 
@@ -46,15 +47,15 @@
             <input type="radio" name="sort_order" value="ascending" checked hidden></input>
 
         </form>
-		<h1><a href="/">Pro-Grammers.. YEAH!!!!!!</a></h1>
-		<p class="slogan">By Zhor and LaidbackLove</p>
+		<h1><a href="/">Portfolio</a></h1>
+		<p class="slogan">By Daniel Morja, Love Larsson</p>
 	</div>
 </div>
 
 <div id="wrap">		
 	<div id="sidebar">
 		<ul class="sidemenu">
-			<li><a class="active" href="#">Pages</a></li>
+            <h2>Pages</h2>
             <h1><a href="/">Home</a></h1>
             <br>
             <h1><a href="/project">Projects</a></h1>
@@ -63,29 +64,18 @@
 		</ul>
 		
 		<h2>Tutorial links</h2>
-		<p>Här ska vi ha länkar till tutorials</p>
-	    <h2><a href="http://www.google.com">Click here if you need help..</a></h2>
+		<h2><a href="http://flask.pocoo.org/docs/quickstart/" target="_blank"> Flask tutorial</a></h2>
+	    <h2><a href="http://www.google.com"target="_blank">Need help?</a></h2>
 
 	</div>
 
 	<div id="extras">
 		<h2>News</h2>
-		<p>HÄR KOMMER DET FINNAS NYHETER O KREJER VA</p>
+		<p>Today we finished TDP003!</p>
 		
-		<h2>Active Projects</h2>
-		<ul>
-			<li><a href="#">Link one</a></li>
-			<li><a href="#">Link two</a></li>
-			<li><a href="#">Two levels</a>
-				<ul>
-					<li><a href="#">Sub 1</a></li>
-					<li><a href="#">Sub 2</a></li>
-				</ul></li>
-			<li><a href="#">Last link</a></li>
-		</ul>
 
 		<div id="footer">
-			<p>Copyright &copy; 2012 Daniel Morja, Love Larsson<br />
+
 
 
 		</div>

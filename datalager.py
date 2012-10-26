@@ -103,12 +103,13 @@ def search(db,sort_by=u'start_date',sort_order=u'asc',techniques=None,search=Non
         except TypeError:
             pass
 
+
             for dictionary in db:
-                for value in search_fields:
-                    if dictionary[value]==search:
-                        result_of_search.append(dictionary) #if value matches search add to result_of_search
-                        break
-    
+             for value in search_fields:
+                 if search in str(dictionary[value]):
+                     result_of_search.append(dictionary) #if value matches search add to result_of_search
+                     break
+
     #searches for a string
     if search!=None:
         for dictionary in db:
@@ -120,16 +121,20 @@ def search(db,sort_by=u'start_date',sort_order=u'asc',techniques=None,search=Non
                     pass
                 else:
                     key_in_dict=key_in_dict.lower()
-                if key_in_dict==search and key_in_dict in techniquelist:
+                if search in str(key_in_dict) and key_in_dict in techniquelist:
                     result_of_search.append(dictionary) #if true append to result of search and break the loop
                     break
-                elif key_in_dict==search and techniques==None:
+                elif str(key_in_dict) in search_fields:
+                    result_of_search.append(dictionary) #if true append to result of search and break the loop
+                    break
+                elif search in str(key_in_dict) and techniques==None:
                     result_of_search.append(dictionary) #if true append to result and break loop
                     break
 
+
     #sorts the result 
     if result_of_search==[] and techniquelist==[]:
-        db.sort(key=operator.itemgetter(sort_by)) #if we havent found anything sort the original list
+        db.sort(key=operator.itemgetter(sort_by)) #sorts db by sort_by
     else:
         techniquelist.sort(key=operator.itemgetter(sort_by))
         result_of_search.sort(key=operator.itemgetter(sort_by)) #sort by the field sort_by
@@ -158,6 +163,7 @@ def print_log(message, error):
     log=open('log.txt', 'a')
     timestamp=datetime.datetime.now()
     log.write(str(timestamp))
-    log.write(message)
+    log.write("    ")
     log.write(error)
+    log.write(message)
     log.write('\n')
