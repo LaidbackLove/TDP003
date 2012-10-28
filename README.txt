@@ -1,4 +1,3 @@
-
 Användarmanual för TDP003 portfolio.
 
 
@@ -12,7 +11,7 @@ $ pip install Flask
 Server filen heter tdp003.py, detta är alltså filen du ska köra.
 För att köra filen, skriv detta i kommandotolken:
 
-$ python hello.py
+$ python [path till servern]/tdp003.py
 
 Kör servern i valfritt program. 
 
@@ -45,4 +44,5 @@ Datan är lagrad på formen:
 
 Där varje projekt blir en ny dictionary i listan. Här kan du ändra vad du vill.
 "small_image" ska länka till en bild som ligger i static/images/, samma sak med "big_image".
+"project_no" ska gå från 1,2,3,4 etc och varje projekt ska ha ett unikt projektnummer
 
